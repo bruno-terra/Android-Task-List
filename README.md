@@ -11,11 +11,11 @@ This APP was developed to follow your daily routine in the list of tasks that ne
 1. Enter In The Desired Directory To Setup The Project.
 2. Clone The Repository
 ```
-  git clone https://github.com/bruno-terra/Android-taskList.git
+  git clone https://github.com/bruno-terra/Android-Task-List.git
 ```
 3. Enter In The Project Folder
 ```
-  cd Android-taskList
+  cd Android-Task-List
 ```
 4. Install All Project Dependecies
 [Android Studio](https://developer.android.com/studio)
