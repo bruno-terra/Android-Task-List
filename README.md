@@ -3,7 +3,8 @@ This APP was developed to follow your daily routine in the list of tasks that ne
 
 ![Visualizacao do projeto Task List](TaskList.gif)
 
-## Prerequisites
+## Features
+This APP features all the latest tools and practices in mobile development!
 1. Andoid
 2. SQLite DATABASE
 
