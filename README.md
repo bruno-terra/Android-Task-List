@@ -1,9 +1,13 @@
-# Task List
+## Task List
 This APP was developed to follow your daily routine in the list of tasks that need to be performed.
 
 ![Visualizacao do projeto Task List](TaskList.gif)
 
-# How To Setup The Project
+## Prerequisites
+1. Andoid
+2. SQLite DATABASE
+
+## How To Setup The Project
 1. Enter In The Desired Directory To Setup The Project.
 2. Clone The Repository
 ```
@@ -18,5 +22,5 @@ This APP was developed to follow your daily routine in the list of tasks that ne
 
 5. Run
 
-#Licence
-This project was licensed by [Bruno Augusto Terra](https://github.com/bruno-terra) and it's covered by the [MIT License](LICENCE).
+## License
+This project was licensed by [Bruno Augusto Terra](https://github.com/bruno-terra) and it's covered by the [MIT License](LICENSE).
